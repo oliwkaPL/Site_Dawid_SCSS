@@ -1,0 +1,23 @@
+{
+  "name": "site_dawid_scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliwkaPL/Site_Dawid_SCSS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliwkaPL/Site_Dawid_SCSS/issues"
+  },
+  "homepage": "https://github.com/oliwkaPL/Site_Dawid_SCSS#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
